@@ -1,0 +1,9 @@
+
+    Given the target: 0.508238998301109 * 888.76KBs = 451.7024921300936KBs
+    Reduced image bytes from 600.416015625KBs to 445.5546875KBs
+    25.792337994814794% decrease in images KBs
+    Did not reduce JS
+    Page size reduced to 733.898671875KBs from 888.76KBs
+    Goal - achieved page size is -282.1961797449064KBs
+    SSIM Thresh is at 0.9
+    

@@ -1,0 +1,2 @@
+var scriptUrl = 'https:\/\/www.youtube.com\/s\/player\/6ed0d907\/www-widgetapi.vflset\/www-widgetapi.js';window['yt_embedsEnableHouseBrandAndYtCoexistence'] =  true ;try{var ttPolicy=window.trustedTypes.createPolicy("youtube-widget-api",{createScriptURL:function(x){}});scriptUrl=ttPolicy.createScriptURL(scriptUrl)}catch(e){}var YT;if(!window["YT"])YT={loading:0,loaded:0};var YTConfig;if(!window["YTConfig"])YTConfig={"host":"https://www.youtube.com"};
+if(!YT.loading){YT.loading=1;(function(){})()};
