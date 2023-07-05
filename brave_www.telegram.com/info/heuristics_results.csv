@@ -1,1 +1,2 @@
-Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM,Weighted Sum
+94185af619c07724b881c832e1696a36.png,94185af619c07724b881c832e1696a36.png,https://www.gannett-cdn.com/presto/2020/01/17/USAT/9c76a516-a34d-4544-a618-bac058ee5ae4-unsupported_browser.png,535.12109375,1.0,1.0,1.0,535.12109375,533.904296875,1.0,60,1,2.0
