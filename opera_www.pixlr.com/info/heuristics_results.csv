@@ -1,5 +1,5 @@
 Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM,Weighted Sum,Resolution Percentage
-reduced_photomash-background-remover.jpg,photomash-background-remover.jpg,https://pixlr.com/images/photomash-background-remover.jpg,232.03515625,1.0,0.24853801169590642,0.0,47.5390625,24.9345703125,0.9072072530866512,20,0.9574826213605163,0.24853801169590642,56.5
+reduced_photomash-background-remover.jpg,photomash-background-remover.jpg,https://pixlr.com/images/photomash-background-remover.jpg,232.03515625,1.0,0.24853801169590642,0.0,71.4033203125,24.9345703125,0.9072072530866512,20,0.9778715077456093,0.24853801169590642,79.5
 ql-ai-image-generator.webp,ql-ai-image-generator.webp,https://pixlr.com/img/misc/ql-ai-image-generator.webp,6.412109375,0.32259396943411817,0.0,1.0,6.412109375,6.412109375,1.0,100,1.0,1.0,
 ql-remove-bg.webp,ql-remove-bg.webp,https://pixlr.com/img/misc/ql-remove-bg.webp,4.423828125,0.32259396943411817,0.0,1.0,4.423828125,4.423828125,1.0,100,1.0,1.0,
 ql-remove-object.webp,ql-remove-object.webp,https://pixlr.com/img/misc/ql-remove-object.webp,5.375,0.32259396943411817,0.0,1.0,5.375,5.375,1.0,100,1.0,1.0,

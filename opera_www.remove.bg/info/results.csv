@@ -1,8 +1,8 @@
 Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
-3_thumbnail.jpg,3_thumbnail.jpg,https://static.remove.bg/uploader-examples/person/3_thumbnail.jpg,16.255859375,0.0678367610638527,1764,0.0,16.255859375,16.255859375,1.0,100,1.0
-6_thumbnail.jpg,6_thumbnail.jpg,https://static.remove.bg/uploader-examples/animal/6_thumbnail.jpg,18.4345703125,0.0678367610638527,1764,130.20144220511685,18.4345703125,5.98828125,0.9044074408723342,60,1.0
-2_thumbnail.jpg,2_thumbnail.jpg,https://static.remove.bg/uploader-examples/car/2_thumbnail.jpg,12.033203125,0.0678367610638527,1764,0.0,12.033203125,12.033203125,1.0,100,1.0
-4_thumbnail.jpg,4_thumbnail.jpg,https://static.remove.bg/uploader-examples/product/4_thumbnail.jpg,10.93359375,0.0678367610638527,1764,0.0,10.93359375,10.93359375,1.0,100,1.0
+7_thumbnail.jpg,7_thumbnail.jpg,https://static.remove.bg/uploader-examples/person/7_thumbnail.jpg,11.197265625,0.0678367610638527,1764,0.0,11.197265625,11.197265625,1.0,100,1.0
+4_thumbnail.jpg,4_thumbnail.jpg,https://static.remove.bg/uploader-examples/animal/4_thumbnail.jpg,20.5771484375,0.0678367610638527,1764,155.29411333029486,20.5771484375,5.6328125,0.9037675310607884,40,1.0
+5_thumbnail.jpg,5_thumbnail.jpg,https://static.remove.bg/uploader-examples/car/5_thumbnail.jpg,12.86328125,0.0678367610638527,1764,0.0,12.86328125,12.86328125,1.0,100,1.0
+8_thumbnail.jpg,8_thumbnail.jpg,https://static.remove.bg/uploader-examples/product/8_thumbnail.jpg,10.123046875,0.0678367610638527,1764,0.0,10.123046875,10.123046875,1.0,100,1.0
 people-org.webp,people-org.png,https://sb.kaleidousercontent.com/67418/992x558/ef4cc24685/people-org.png,193.208984375,0.10627759233336923,47270,1800.880390409692,174.6328125,8.541015625,0.9077718888164389,0,1.0
 people.webp,people.png,https://sb.kaleidousercontent.com/67418/992x558/7632960ff9/people.png,93.216796875,0.10627759233336923,47270,611.2093934176072,84.990234375,23.986328125,0.9001914779010616,60,1.0
 all-pages-2.webp,all-pages-2.png,https://sb.kaleidousercontent.com/67418/658x756/361846cee7/all-pages-2.png,66.9150390625,0.20318725099601595,43680,338.52716771012666,61.68359375,34.85546875,0.9207504520790121,85,1.0
@@ -16,4 +16,5 @@ sonymusic_author.jpg,sonymusic_author.jpg,https://sb.kaleidousercontent.com/6741
 phoenix-trading-company-logo.png,phoenix-trading-company-logo.png,https://sb.kaleidousercontent.com/67418/600x224/c0a356a433/phoenix-trading-company-logo.png,105.9873046875,0.3944223107569721,7776,596679687.5,105.9873046875,105.390625,1.0,60,1.0
 phoenix_author.jpg,phoenix_author.jpg,https://sb.kaleidousercontent.com/67418/160x160/174df4481b/phoenix_author.jpg,23.6123046875,0.42231075697211157,6400,258.3875980902597,23.6123046875,1.6708984375,0.9150833615383682,15,1.0
 techcrunch_author.jpg,techcrunch_author.jpg,https://sb.kaleidousercontent.com/67418/160x160/0337b3fbf1/techcrunch_author.jpg,23.6171875,0.4309249488532357,0,285.92248367434615,23.6171875,1.93359375,0.9241626839857172,15,1.0
-7_thumbnail.jpg,7_thumbnail.jpg,https://static.remove.bg/uploader-examples/animal/7_thumbnail.jpg,11.9755859375,0.6800904490147518,1764,0.0,11.9755859375,11.9755859375,1.0,100,1.0
+2_thumbnail.jpg,2_thumbnail.jpg,https://static.remove.bg/uploader-examples/person/2_thumbnail.jpg,10.869140625,0.6800904490147518,1764,0.0,10.869140625,10.869140625,1.0,100,1.0
+3_thumbnail.jpg,3_thumbnail.jpg,https://static.remove.bg/uploader-examples/animal/3_thumbnail.jpg,17.6171875,0.6800904490147518,1764,136.7253286694358,17.6171875,4.8583984375,0.9066830616780067,25,1.0
