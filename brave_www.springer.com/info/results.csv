@@ -1,0 +1,4 @@
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
+v2.jpeg,v2.jpeg,https://resource-cms.springernature.com/springer-cms/rest/v1/content/23377250/data/v2,82.841796875,0.17651617903507072,59658,0.0,82.841796875,82.841796875,1.0,100,1
+v3.jpeg,v3.jpeg,https://resource-cms.springernature.com/springer-cms/rest/v1/content/23377248/data/v3,42.966796875,0.2947103274559194,59658,0.0,42.966796875,42.966796875,1.0,100,1
+v1.png,v1.png,https://resource-cms.springernature.com/springer-cms/rest/v1/content/29630/data/v1,5.724609375,0.6554931214880837,6480,3512695312.5,5.724609375,2.2119140625,1.0,0,1

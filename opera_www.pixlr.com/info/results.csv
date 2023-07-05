@@ -1,0 +1,16 @@
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
+ql-ai-image-generator.webp,ql-ai-image-generator.webp,https://pixlr.com/img/misc/ql-ai-image-generator.webp,6.412109375,0.8832542867566582,0,0.0,6.412109375,6.412109375,1.0,100,1
+ql-remove-bg.webp,ql-remove-bg.webp,https://pixlr.com/img/misc/ql-remove-bg.webp,4.423828125,0.8832542867566582,0,0.0,4.423828125,4.423828125,1.0,100,1
+ql-remove-object.webp,ql-remove-object.webp,https://pixlr.com/img/misc/ql-remove-object.webp,5.375,0.8832542867566582,0,0.0,5.375,5.375,1.0,100,1
+ql-collage-maker.webp,ql-collage-maker.webp,https://pixlr.com/img/misc/ql-collage-maker.webp,4.962890625,0.8832542867566582,0,0.0,4.962890625,4.962890625,1.0,100,1
+ql-crop-image.webp,ql-crop-image.webp,https://pixlr.com/img/misc/ql-crop-image.webp,3.998046875,0.8832542867566582,0,0.0,3.998046875,3.998046875,1.0,100,1
+ql-templates.webp,ql-templates.webp,https://pixlr.com/img/misc/ql-templates.webp,10.080078125,0.8832542867566582,0,0.0,10.080078125,10.080078125,1.0,100,1
+photomash-background-remover.jpg,photomash-background-remover.jpg,https://pixlr.com/images/photomash-background-remover.jpg,232.03515625,0.2849325063845312,45900,2231.861786901227,232.03515625,24.9345703125,0.9072072530866512,20,1
+thumbnail_medium.webp,thumbnail_medium.webp,https://img-cdn.pixlr.com/pixlr-templates/64a2733de1d43c6c94714cf5/thumbnail_medium.webp,13.1796875,0.8832542867566582,0,0.0,13.1796875,13.1796875,1.0,100,1
+remove-bg.webp,remove-bg.webp,https://pixlr.com/images/index/remove-bg.webp,62.61328125,0.39584093396570597,74100,0.0,62.61328125,62.61328125,1.0,100,1
+collage.webp,collage.webp,https://pixlr.com/images/index/collage.webp,44.421875,0.8832542867566582,0,0.0,44.421875,44.421875,1.0,100,1
+filter-effect.webp,filter-effect.webp,https://pixlr.com/images/index/filter-effect.webp,48.51171875,0.5124042320321051,74100,0.0,48.51171875,48.51171875,1.0,100,1
+premium.webp,premium.webp,https://pixlr.com/images/index/premium.webp,72.814453125,0.5715067493615469,184680,0.0,72.814453125,72.814453125,1.0,100,1
+inmagine.png,inmagine.png,https://pixlr.com/images/footer/inmagine.png,0.8134765625,0.8832542867566582,2100,0.0,0.8134765625,0.8134765625,1.0,100,1
+123rf.png,123rf.png,https://pixlr.com/images/footer/123rf.png,1.044921875,0.8832542867566582,2080,0.0,1.044921875,1.044921875,1.0,100,1
+dsn.png,dsn.png,https://pixlr.com/images/footer/dsn.png,1.9912109375,0.8832542867566582,2000,0.0,1.9912109375,1.9912109375,1.0,100,1

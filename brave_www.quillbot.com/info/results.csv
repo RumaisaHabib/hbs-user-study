@@ -1,0 +1,4 @@
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
+chrome.png,chrome.png,https://assets.quillbot.com/images/theme/commonImages/chrome.png,40.7978515625,0.31873385012919897,4096,0.0,40.7978515625,40.7978515625,1.0,100,1
+linkedin-logo.png,linkedin-logo.png,https://assets.quillbot.com/images/theme/commonImages/linkedin-logo.png,4.05859375,0.31873385012919897,4800,0.0,4.05859375,4.05859375,1.0,100,1
+QuillBotLogoText.png,QuillBotLogoText.png,https://cdn.cookielaw.org/logos/265c1602-2645-42a0-9388-484739b10fd3/698fa0a9-ee46-4957-85a7-69614b96a84f/4731dab5-f3e1-4e45-9e43-0cfe1c400f53/QuillBotLogoText.png,7.8740234375,0.917312661498708,0,3173828125.0,7.8740234375,4.7001953125,1.0,10,1

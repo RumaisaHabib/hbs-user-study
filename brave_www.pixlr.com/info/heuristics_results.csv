@@ -1,0 +1,16 @@
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM,Weighted Sum
+photomash-background-remover.jpg,photomash-background-remover.jpg,https://pixlr.com/images/photomash-background-remover.jpg,232.03515625,1.0,0.24853801169590642,0.0,232.03515625,24.9345703125,0.9072072530866512,20,1,0.24853801169590642
+ql-ai-image-generator.webp,ql-ai-image-generator.webp,https://pixlr.com/img/misc/ql-ai-image-generator.webp,6.412109375,0.32259396943411817,0.0,1.0,6.412109375,6.412109375,1.0,100,1,1.0
+ql-remove-bg.webp,ql-remove-bg.webp,https://pixlr.com/img/misc/ql-remove-bg.webp,4.423828125,0.32259396943411817,0.0,1.0,4.423828125,4.423828125,1.0,100,1,1.0
+ql-remove-object.webp,ql-remove-object.webp,https://pixlr.com/img/misc/ql-remove-object.webp,5.375,0.32259396943411817,0.0,1.0,5.375,5.375,1.0,100,1,1.0
+ql-collage-maker.webp,ql-collage-maker.webp,https://pixlr.com/img/misc/ql-collage-maker.webp,4.962890625,0.32259396943411817,0.0,1.0,4.962890625,4.962890625,1.0,100,1,1.0
+ql-crop-image.webp,ql-crop-image.webp,https://pixlr.com/img/misc/ql-crop-image.webp,3.998046875,0.32259396943411817,0.0,1.0,3.998046875,3.998046875,1.0,100,1,1.0
+ql-templates.webp,ql-templates.webp,https://pixlr.com/img/misc/ql-templates.webp,10.080078125,0.32259396943411817,0.0,1.0,10.080078125,10.080078125,1.0,100,1,1.0
+thumbnail_medium.webp,thumbnail_medium.webp,https://img-cdn.pixlr.com/pixlr-templates/64a2733de1d43c6c94714cf5/thumbnail_medium.webp,13.1796875,0.32259396943411817,0.0,1.0,13.1796875,13.1796875,1.0,100,1,1.0
+collage.webp,collage.webp,https://pixlr.com/images/index/collage.webp,44.421875,0.32259396943411817,0.0,1.0,44.421875,44.421875,1.0,100,1,1.0
+dsn.png,dsn.png,https://pixlr.com/images/footer/dsn.png,1.9912109375,0.32259396943411817,0.010829542993285684,1.0,1.9912109375,1.9912109375,1.0,100,1,1.0108295429932856
+123rf.png,123rf.png,https://pixlr.com/images/footer/123rf.png,1.044921875,0.32259396943411817,0.01126272471301711,1.0,1.044921875,1.044921875,1.0,100,1,1.011262724713017
+inmagine.png,inmagine.png,https://pixlr.com/images/footer/inmagine.png,0.8134765625,0.32259396943411817,0.011371020142949967,1.0,0.8134765625,0.8134765625,1.0,100,1,1.01137102014295
+remove-bg.webp,remove-bg.webp,https://pixlr.com/images/index/remove-bg.webp,62.61328125,0.719815668202765,0.4012345679012346,1.0,62.61328125,62.61328125,1.0,100,1,1.4012345679012346
+filter-effect.webp,filter-effect.webp,https://pixlr.com/images/index/filter-effect.webp,48.51171875,0.5560697757208972,0.4012345679012346,1.0,48.51171875,48.51171875,1.0,100,1,1.4012345679012346
+premium.webp,premium.webp,https://pixlr.com/images/index/premium.webp,72.814453125,0.49856367698691356,1.0,1.0,72.814453125,72.814453125,1.0,100,1,2.0
