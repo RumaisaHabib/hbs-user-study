@@ -1,1 +1,0 @@
-function UET(o){}function UET_init(u,o){}function UET_push(u){}

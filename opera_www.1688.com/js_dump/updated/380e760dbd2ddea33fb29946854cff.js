@@ -1,1 +1,0 @@
-!function(n,t,r,i,a,o,e,c,u,f,s,l,m,h,v){}(Object,Array,Function,Math,Date,RegExp,encodeURIComponent,window,document,navigator,setTimeout,location,history,screen,Image);

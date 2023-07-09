@@ -1,2 +1,0 @@
-﻿!function n(o,s,r){}({1:[function(e,t,i){},{}],2:[function(e,t,i){},{}],3:[function(e,t,i){},{"./xhr.js":8}],4:[function(e,u,t){},{"./observer":2,"./snippets":3,"./widget":6}],5:[function(e,t,i){},{}],6:[function(e,r,t){},{"./../constants":1,"./iframe":5,"./tracking":7}],7:[function(e,t,i){},{"../constants":1}],8:[function(e,t,i){},{}],9:[function(e,t,i){},{"./lib/widget-management.js":4}]},{},[9]);
-//# sourceMappingURL=tp.widget.bootstrap.min.js.map
