@@ -1,0 +1,4 @@
+Final Name,Image Name,Image Source,Original Size (KB),Location,Area,ByteSSIM,Final Size (KB),Worst Size (KB),Worst SSIM,Worst Resolution,SSIM
+s-l300.webp,s-l300.webp,https://i.ebayimg.com/images/g/o7MAAOSw1y1hoQpM/s-l300.webp,12.169921875,0.0999000999000999,1,0.0,12.169921875,12.169921875,1.0,100,1
+s-l400.webp,s-l400.webp,https://i.ebayimg.com/images/g/NjAAAOSw0W9bzbbV/s-l400.webp,6.79296875,0.2952047952047952,16384,0.0,6.79296875,6.79296875,1.0,100,1
+s-l1200.webp,s-l1200.webp,https://i.ebayimg.com/images/g/m~UAAOSwTF1knaiO/s-l1200.webp,18.86328125,0.50999000999001,1,0.0,18.86328125,18.86328125,1.0,100,1
